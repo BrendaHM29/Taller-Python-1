@@ -84,3 +84,5 @@ Responde aquí con no más de 6 lineas de texto.
 ### Respuesta 
 >    >>> print ('Hola a todos en el taller de python')
 
+google colab https://colab.research.google.com/drive/1CrMTUCfqEVyUPMf4ZDgZERvUfJvvAVKT#scrollTo=A7MnfEQEIDMx 
+
